@@ -2,4 +2,27 @@
 
 body {
     font-family: Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 18px;
+    color: #f9faf8;
+    font-size: 18px;
+    flex-wrap: wrap;
+}
+
+#logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #1f2937;
 }
