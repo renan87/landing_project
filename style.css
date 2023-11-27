@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
 }
-
+/* HEADER SECTION */
 ul {
     list-style-type: none;
     display: flex;
@@ -26,3 +26,5 @@ ul {
     justify-content: space-around;
     background-color: #1f2937;
 }
+
+
