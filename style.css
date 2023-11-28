@@ -84,4 +84,50 @@ ul {
     color: white;
     align-items: center;
     justify-content: center;
+    margin-top: 10px;
 }
+
+/* CARD SECTION */
+
+#card_title {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.subtitles {
+    display: flex;
+    color: #1f2937;
+    flex-wrap: wrap;
+}
+
+.card_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cards_display {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    border-style: solid;
+    border-color: #3882F6;
+    border-width: 3px;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+}
+
+
