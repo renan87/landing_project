@@ -109,13 +109,16 @@ ul {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
 }
 
 .cards_display {
     display: flex;
     justify-content: center;
     text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .card {
@@ -124,8 +127,8 @@ ul {
     border-color: #3882F6;
     border-width: 3px;
     border-radius: 10px;
-    width: 250px;
-    height: 250px;
+    width: 180px;
+    height: 180px;
     justify-content: center;
     align-items: center;
 }
