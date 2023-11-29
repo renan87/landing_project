@@ -178,6 +178,8 @@ ul {
     padding-right: 60px;
     padding-bottom: 40px;
     border-radius: 10px;
+    min-width: 900px;
+    justify-content: space-between;
 }
 
 .signup_text {
@@ -208,6 +210,14 @@ ul {
 }
 
 /* FOOTER SECTION */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #F9FAF8;
+}
 
 
 
