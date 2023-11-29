@@ -133,4 +133,30 @@ ul {
     align-items: center;
 }
 
+/* QUOTE SECTION */
+
+.quote_section {
+    background-color: #e5e7eb;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#quote {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1f2937;
+    font-style: italic;
+    margin: 0;
+}
+
+#quote_sign {
+    font-size: 18px;
+    font-weight: bolder;
+    color: #1f2937;
+    display: flex;
+    justify-content: flex-end;   
+}
+
 
